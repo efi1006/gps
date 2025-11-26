@@ -1,0 +1,13 @@
+{
+  "name": "gps",
+  "version": "1.0.0",
+  "description": "Lightweight PBX recording fetcher and Google Drive uploader",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
